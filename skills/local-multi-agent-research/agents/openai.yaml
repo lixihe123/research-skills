@@ -1,0 +1,4 @@
+interface:
+  display_name: "多agent本地交互式科研预调研"
+  short_description: "中英文证据互补与渐进改进预调研，带回 DeepSeek 结果后与用户磋商"
+  default_prompt: "使用 $local-multi-agent-research，沿我的研究主线探索可验证改进；我会带回 DeepSeek 的中文资料与校准意见，再与你讨论分歧和下一步。"
