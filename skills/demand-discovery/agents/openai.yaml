@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求洞察与问题定义"
+  short_description: "洞察模糊需求、拓展思路，用通俗解释呈现可理解的跨学科建议"
+  default_prompt: "请使用 $demand-discovery，和我一起从模糊想法中定位关键痛点，探索跨领域切入点，用通俗语言解释建议，并区分我的意图与你的假设。"
